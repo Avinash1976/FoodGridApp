@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "812055610671",
+    "project_id": "foodgrid-174f5",
+    "storage_bucket": "foodgrid-174f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812055610671:android:b161d0dc68e18a3c634dda",
+        "android_client_info": {
+          "package_name": "android.example.food_grid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812055610671-d0roiopu3ouq1nfe4dna04s8er01peb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPJftRlYXGdrHvReIgXHXDUHkstiwIvgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812055610671-d0roiopu3ouq1nfe4dna04s8er01peb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
